@@ -1,0 +1,6 @@
+[submodule "gitweb-theme"]
+	path = gitweb-theme
+	url = git@github.com:m6w6/gitweb-theme
+[submodule "gh-mirror"]
+	path = gh-mirror
+	url = git@github.com:m6w6/gh-mirror
